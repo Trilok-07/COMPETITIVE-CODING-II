@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
