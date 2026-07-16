@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0238-product-of-array-except-self) |
+| [0896-monotonic-array](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0896-monotonic-array) |
 ## Prefix Sum
 |  |
 | ------- |
