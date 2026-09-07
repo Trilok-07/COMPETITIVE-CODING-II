@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0238-product-of-array-except-self) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
