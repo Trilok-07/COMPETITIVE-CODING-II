@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0238-product-of-array-except-self) |
 | [0896-monotonic-array](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0896-monotonic-array) |
 ## Prefix Sum
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
