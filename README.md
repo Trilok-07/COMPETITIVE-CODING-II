@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0287-find-the-duplicate-number) |
+| [0403-frog-jump](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0403-frog-jump) |
 | [0896-monotonic-array](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0896-monotonic-array) |
 ## Prefix Sum
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/Trilok-07/COMPETITIVE-CODING-II/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
 | ------- |
